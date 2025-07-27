@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Hoàng Nam</h1>
 <h3 align="center">💻 Web Developer Fresher | 🌱 Learning React & Node.js | 🚀 Open to opportunities |</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoangnamnguyen1793" alt="hoangnamnguyen1793" /></a> </p>
-
 - 🌱 I’m currently learning **Docker, Kubernets**
 
 - 👨‍💻 All of my projects are available at [portfolio-kallanekoes-projects.vercel.app](portfolio-kallanekoes-projects.vercel.app)
@@ -26,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangnamnguyen1793&show_icons=true&locale=en" alt="hoangnamnguyen1793" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangnamnguyen1793&" alt="hoangnamnguyen1793" /></p>
-
